@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ChiBalderas
+- 👀 I’m interested in Soft Matter physics research, both experimental and theory.
+- ⚡ Fun fact: I'm programming in Fortran because my PhD advisor is old school.
